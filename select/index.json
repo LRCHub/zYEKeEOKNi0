@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "CHIHIRO",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2026-02-21T02:12:59.855973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chihiro",
+      "artist": "Yoste",
+      "has_synced": false,
+      "path": "select/01_Chihiro_Yoste.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chihiro",
+      "artist": "Yoste",
+      "has_synced": true,
+      "path": "select/02_Chihiro_Yoste.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waltz of Chihiro",
+      "artist": "Joe Hisaishi",
+      "has_synced": false,
+      "path": "select/03_Waltz_of_Chihiro_Joe_Hisaishi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chihiro No Waltz",
+      "artist": "Joe Hisaishi",
+      "has_synced": false,
+      "path": "select/04_Chihiro_No_Waltz_Joe_Hisaishi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "El viaje de Chihiro",
+      "artist": "Bb trickz",
+      "has_synced": true,
+      "path": "select/05_El_viaje_de_Chihiro_Bb_trickz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "El viaje de Chihiro",
+      "artist": "Bb trickz",
+      "has_synced": false,
+      "path": "select/06_El_viaje_de_Chihiro_Bb_trickz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Viagem de Chihiro",
+      "artist": "Rodrigo Zin",
+      "has_synced": false,
+      "path": "select/07_Viagem_de_Chihiro_Rodrigo_Zin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイノヨカン from Chihiro",
+      "artist": "小阪ちひろ(C.V.阿澄佳奈)",
+      "has_synced": true,
+      "path": "select/08_アイノヨカン_from_Chihiro_小阪ちひろ(C.V.阿澄佳奈).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chihiro",
+      "artist": "Veintiuno",
+      "has_synced": true,
+      "path": "select/09_Chihiro_Veintiuno.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheer Up, Chihiro!",
+      "artist": "Ovlov",
+      "has_synced": true,
+      "path": "select/10_Cheer_Up,_Chihiro!_Ovlov.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CHIHIRO",
+      "artist": "BillieEilishVEVO",
+      "has_synced": true,
+      "path": "select/11_CHIHIRO_BillieEilishVEVO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/12_CHIHIRO_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/13_CHIHIRO_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Billie Eilish - CHIHIRO (Official Lyric Video)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/14_Billie_Eilish_-_CHIHIRO_(Official_Lyric_Video)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/15_CHIHIRO_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/16_CHIHIRO_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/17_CHIHIRO_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/18_CHIHIRO_Billie_Eilish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_01_CHIHIRO_Billie_Eilish.txt"
+    }
+  ]
+}
